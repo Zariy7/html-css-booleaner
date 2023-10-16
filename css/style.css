@@ -17,7 +17,7 @@
     height: 5%;
 }
 
-#main{
+main, footer{
     margin: 20px 0px 0px 20px;
 }
 
@@ -48,6 +48,23 @@ main>p{
 .small-text{
     font-size: 10px;
     margin-bottom: 10px;
+}
+
+.suggestion{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    background-repeat: no-repeat;
+    height: 250px;
+    margin-top: 20px;
+}
+
+#sugg-monitor{
+    background-image: url('../img/monitor.jpg');
+}
+
+#sugg-graph{
+    background-image: url('../img/graph.jpg');
 }
 
 #img-tim{
