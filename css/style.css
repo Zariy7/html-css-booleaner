@@ -6,7 +6,7 @@
 
 #img-background{
     background-color: rgba(78,160,255,255);
-    background-image: url('./img/pattern.png');
+    background-image: url('..   /img/pattern.png');
     background-repeat: repeat-x;
     background-size: auto;
     padding: 50px 0px 0px 20px;
@@ -16,3 +16,4 @@
     width: 15%;
     height: 5%;
 }
+
